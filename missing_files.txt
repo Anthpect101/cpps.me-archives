@@ -1,0 +1,13 @@
+All files in music/
+All files in postcards/
+
+All files in /content/shorts (global path) are unreachable for me:
+content/shorts/underwater.swf
+content/shorts/squidzoid.swf
+content/shorts/penguinsTime.swf
+content/shorts/fairyFables.swf
+content/shorts/ruby.swf
+content/shorts/goldenPuffle.swf
+
+
+Rest of files in global crumbs are being worked on, and local are for later.
